@@ -6,6 +6,11 @@
 
 1. **La ISO de KairoOS:** [KairoOS.iso en MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk). Pesa 8,5 GB.
    - Las cuentas gratis de MEGA tienen un límite de descarga cada pocas horas. Si se para a mitad, espera a que se renueve o descárgala con la app de MEGA, que la reanuda sola.
+   - **Comprueba que es la original** (que no se ha dañado ni la ha cambiado nadie). En PowerShell:
+     ```powershell
+     Get-FileHash "$env:USERPROFILE\Downloads\KairoOS.iso" -Algorithm SHA256
+     ```
+     Tiene que salir exactamente: `3E6EC0A57F1AF3BFE2FC1C15E82310CBDD7DF5FD13E963536C4F19FB92C466A2`
    - Si ya la tienes, salta al paso 3.
 2. **Rufus:** desde [rufus.ie](https://rufus.ie/), para grabar la ISO en un USB.
 

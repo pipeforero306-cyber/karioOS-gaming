@@ -30,6 +30,8 @@ Sin pantallas de configuración de Windows, sin cuenta de Microsoft obligatoria 
 > **Descarga:** [KairoOS 1.0 (ISO, 8,5 GB) en MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk).
 > ¿Prefieres crearla tú desde tu propia ISO oficial de Windows 11? Usa **[KairoOS Creator](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest)**.
 > En ambos casos, para usar Windows necesitas tu propia licencia: KairoOS no incluye activadores.
+>
+> SHA-256 de `KairoOS.iso` 1.0: `3E6EC0A57F1AF3BFE2FC1C15E82310CBDD7DF5FD13E963536C4F19FB92C466A2`
 
 ---
 
