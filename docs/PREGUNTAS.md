@@ -2,8 +2,8 @@
 
 [← Volver al inicio](../README.md)
 
-### ¿Es legal?
-Sí, tal como funciona KairoOS. **No se reparte Windows**: tú descargas la ISO oficial de Microsoft y KairoOS Creator la prepara en tu propio PC. Para usar Windows necesitas una licencia válida, igual que con cualquier instalación de Windows.
+### ¿Necesito licencia?
+Sí. La ISO de KairoOS contiene Windows 11 **sin licencia ni activadores**: para usarlo necesitas una licencia válida de Windows, igual que con cualquier instalación. Si prefieres partir de tu propia ISO oficial de Microsoft, puedes crear KairoOS con **KairoOS Creator**.
 
 ### ¿Tengo que pagar Windows?
 Si tu PC o portátil ya traía Windows 10 u 11, la licencia suele estar guardada en el equipo y **se activa sola** al conectarse a internet, siempre que elijas la misma edición (casi siempre Home). KairoOS no incluye activadores ni salta licencias.

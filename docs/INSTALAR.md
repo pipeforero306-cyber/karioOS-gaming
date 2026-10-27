@@ -4,20 +4,24 @@
 
 ## 1. Descarga lo necesario
 
-1. **KairoOS Creator:** el archivo `KairoOS-Creator.exe`, en [Releases](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest).
-2. **La ISO oficial de Windows 11:**
-   1. Entra en la [página de descarga de Microsoft](https://www.microsoft.com/software-download/windows11).
-   2. En **"Descargar imagen de disco (ISO) de Windows 11"**, elige *Windows 11 (multi-edition ISO)* y tu idioma.
-   3. Descárgala. Pesa unos 7 GB.
-3. **Rufus:** desde [rufus.ie](https://rufus.ie/), para grabar la ISO en un USB.
+1. **La ISO de KairoOS:** [KairoOS.iso en MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk). Pesa 8,5 GB.
+   - Las cuentas gratis de MEGA tienen un límite de descarga cada pocas horas. Si se para a mitad, espera a que se renueve o descárgala con la app de MEGA, que la reanuda sola.
+   - Si ya la tienes, salta al paso 3.
+2. **Rufus:** desde [rufus.ie](https://rufus.ie/), para grabar la ISO en un USB.
 
-## 2. Crea tu ISO de KairoOS
+## 2. (Opcional) Créala tú con KairoOS Creator
 
-1. Abre `KairoOS-Creator.exe`. Te pedirá permisos de administrador: son necesarios para montar la ISO.
+Si prefieres no descargar la ISO ya hecha, puedes crearla a partir de tu propia ISO oficial de Windows 11:
+
+1. Descarga `KairoOS-Creator.exe` desde [Releases](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest).
+2. Descarga la ISO oficial de Windows 11:
+   1. Entra en la [página de Microsoft](https://www.microsoft.com/software-download/windows11).
+   2. En **"Descargar imagen de disco (ISO) de Windows 11"**, elige *Windows 11 (multi-edition ISO)* y tu idioma. Pesa unos 7 GB.
+3. Abre `KairoOS-Creator.exe`. Te pedirá permisos de administrador: son necesarios para montar la ISO.
    - Si Windows SmartScreen avisa de "aplicación no reconocida", pulsa **Más información → Ejecutar de todas formas**.
-2. En **1**, elige la ISO de Windows 11 que descargaste.
-3. En **2**, elige dónde guardar `KairoOS.iso`. Por defecto va al Escritorio.
-4. Pulsa **Crear KairoOS** y espera unos 10-20 minutos.
+4. En **1**, elige la ISO de Windows 11 que descargaste.
+5. En **2**, elige dónde guardar `KairoOS.iso`. Por defecto va al Escritorio.
+6. Pulsa **Crear KairoOS** y espera unos 10-20 minutos.
    - La primera vez, el Creator instala solo la herramienta de Microsoft que crea la ISO (Windows ADK, solo "Deployment Tools").
    - Necesitas unos 20 GB libres en el disco C:.
 

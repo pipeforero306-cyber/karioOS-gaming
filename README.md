@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest"><img alt="Descargar KairoOS Creator" src="https://img.shields.io/badge/Descargar-KairoOS%20Creator-8b5cf6?style=for-the-badge"></a>
+  <a href="https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk"><img alt="Descargar KairoOS" src="https://img.shields.io/badge/Descargar-KairoOS%201.0%20(ISO)-8b5cf6?style=for-the-badge"></a>
   <img alt="Windows 11" src="https://img.shields.io/badge/Windows-11-22d3ee?style=for-the-badge">
   <img alt="Idiomas" src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol%20%C2%B7%20English-ec4899?style=for-the-badge">
 </p>
@@ -27,7 +27,9 @@ Lo instalas desde un USB como cualquier Windows. En unos 20-30 minutos tienes un
 
 Sin pantallas de configuración de Windows, sin cuenta de Microsoft obligatoria y **sin quitar la seguridad**.
 
-> KairoOS **no reparte Windows**. Con **KairoOS Creator** usas tu propia ISO oficial de Windows 11, que se descarga gratis de Microsoft. El programa crea a partir de ella tu ISO de KairoOS. Es el mismo modelo que siguen otros proyectos conocidos de Windows optimizado.
+> **Descarga:** [KairoOS 1.0 (ISO, 8,5 GB) en MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk).
+> ¿Prefieres crearla tú desde tu propia ISO oficial de Windows 11? Usa **[KairoOS Creator](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest)**.
+> En ambos casos, para usar Windows necesitas tu propia licencia: KairoOS no incluye activadores.
 
 ---
 
@@ -86,7 +88,7 @@ En el primer inicio, KairoOS aplica 8 pasos (9 si eliges un idioma distinto al d
 
 ## ¿Por qué es fiable?
 
-- **Es Windows oficial.** Partes de **tu propia ISO de Microsoft**: sin versiones "pirata", sin activadores y sin archivos de origen desconocido.
+- **Es Windows oficial.** KairoOS parte de la **ISO oficial de Microsoft**: sin versiones "pirata", sin activadores y sin archivos de origen desconocido. Si lo prefieres, con KairoOS Creator la creas tú desde tu propia ISO.
 - **La seguridad se queda activada.** Defender, firewall, UAC, Secure Boot, TPM y Windows Update siguen funcionando. Muchas ISO "gaming" los quitan para ganar unos MB; KairoOS no.
 - **Recibe actualizaciones.** Windows Update funciona normal, y tras una actualización grande KairoOS ofrece reaplicar sus ajustes.
 - **Tiene marcha atrás.** Antes de tocar nada crea un punto de restauración.
@@ -100,7 +102,7 @@ En el primer inicio, KairoOS aplica 8 pasos (9 si eliges un idioma distinto al d
 
 | | Windows normal | ISO "gaming" modificada típica | **KairoOS** |
 |---|:---:|:---:|:---:|
-| Windows oficial de Microsoft | ✅ | ❓ Origen dudoso | ✅ Tu propia ISO |
+| Windows oficial de Microsoft | ✅ | ❓ Origen dudoso | ✅ ISO oficial de Microsoft |
 | Sin apps basura ni anuncios | ❌ | ✅ | ✅ |
 | Defender, firewall y Windows Update activos | ✅ | ❌ A menudo quitados | ✅ |
 | Compatible con Secure Boot y TPM | ✅ | ⚠️ Depende | ✅ |
@@ -130,11 +132,11 @@ En el primer inicio, KairoOS aplica 8 pasos (9 si eliges un idioma distinto al d
 
 ## Cómo conseguir KairoOS
 
-1. Descarga **KairoOS Creator** desde [Releases](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest).
-2. Descarga la **ISO oficial de Windows 11** de Microsoft.
-3. Abre KairoOS Creator, elige tu ISO y pulsa **Crear KairoOS**. Tarda unos 10-20 minutos.
-4. Graba `KairoOS.iso` en un USB con **Rufus**.
-5. Arranca el equipo desde el USB y sigue el instalador de KairoOS.
+1. Descarga **[KairoOS.iso desde MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk)** (8,5 GB).
+   - Si MEGA pausa la descarga por su límite gratuito, espera a que se renueve o usa la app de MEGA, que la reanuda sola.
+   - Alternativa: crea tú la ISO con **[KairoOS Creator](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest)** y la ISO oficial de Windows 11.
+2. Graba `KairoOS.iso` en un USB con **Rufus**.
+3. Arranca el equipo desde el USB y sigue el instalador de KairoOS.
 
 La guía completa, con capturas y consejos, está en [docs/INSTALAR.md](docs/INSTALAR.md). Las preguntas frecuentes, en [docs/PREGUNTAS.md](docs/PREGUNTAS.md).
 
@@ -142,7 +144,7 @@ La guía completa, con capturas y consejos, está en [docs/INSTALAR.md](docs/INS
 
 ## Aviso legal
 
-KairoOS es un proyecto independiente y **no está afiliado, patrocinado ni aprobado por Microsoft**. Windows es una marca de Microsoft Corporation. KairoOS no distribuye Windows: KairoOS Creator trabaja con la ISO oficial que descarga cada usuario, y para usar Windows hace falta una licencia válida.
+KairoOS es un proyecto independiente y **no está afiliado, patrocinado ni aprobado por Microsoft**. Windows es una marca de Microsoft Corporation. La ISO de KairoOS contiene Windows 11 **sin licencia**: para usarlo necesitas una licencia válida de Windows (la mayoría de equipos la traen de fábrica). KairoOS no incluye activadores ni salta licencias.
 
 Los programas de terceros que usa KairoOS mantienen sus licencias: lo tienes en [TERCEROS.md](TERCEROS.md).
 
@@ -157,4 +159,4 @@ Los programas de terceros que usa KairoOS mantienen sus licencias: lo tienes en 
 - **No Microsoft account required** and **no Windows setup screens.**
 - Available in **English and Spanish.**
 
-KairoOS does **not** distribute Windows. Download **KairoOS Creator** from [Releases](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest), pick your official Windows 11 ISO (free from Microsoft), and it builds your KairoOS ISO. Then write it to a USB drive with Rufus and install. A valid Windows license is required. KairoOS is not affiliated with Microsoft.
+Download the **[KairoOS ISO from MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk)**, or build it yourself from your official Windows 11 ISO with **[KairoOS Creator](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest)**. Write it to a USB drive with Rufus and install. A valid Windows license is required (no activators included). KairoOS is not affiliated with Microsoft.
