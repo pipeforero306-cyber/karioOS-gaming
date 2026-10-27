@@ -2,10 +2,10 @@
 
 Copyright © 2026 pipeforero306-cyber. Todos los derechos reservados.
 
-Se permite descargar y usar **KairoOS Creator** y las ISO que se creen con él para uso personal, en tus propios equipos.
+Se permite descargar y usar KairoOS para uso personal, en tus propios equipos.
 
 Sin permiso por escrito del autor no se permite:
-- Vender KairoOS ni KairoOS Creator.
+- Vender KairoOS.
 - Redistribuir versiones modificadas.
 - Usar la marca, el logo o el nombre "KairoOS" en otros proyectos.
 

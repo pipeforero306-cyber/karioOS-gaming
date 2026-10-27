@@ -31,4 +31,3 @@ Primera versión pública.
   - Planes de energía y hercios máximos de la pantalla.
   - Interruptores de rendimiento, diagnóstico y liberar temporales.
 - Mantenimiento: tras una actualización grande de Windows, KairoOS ofrece volver a aplicar sus ajustes.
-- KairoOS Creator: crea la ISO de KairoOS a partir de la ISO oficial de Windows 11.

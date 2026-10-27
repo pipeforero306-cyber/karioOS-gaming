@@ -28,7 +28,6 @@ Lo instalas desde un USB como cualquier Windows. En unos 20-30 minutos tienes un
 Sin pantallas de configuración de Windows, sin cuenta de Microsoft obligatoria y **sin quitar la seguridad**.
 
 > **Descarga:** [KairoOS 1.0 (ISO, 8,5 GB) en MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk).
-> ¿Prefieres crearla tú desde tu propia ISO oficial de Windows 11? Usa **[KairoOS Creator](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest)**.
 > En ambos casos, para usar Windows necesitas tu propia licencia: KairoOS no incluye activadores.
 >
 > SHA-256 de `KairoOS.iso` 1.0: `3E6EC0A57F1AF3BFE2FC1C15E82310CBDD7DF5FD13E963536C4F19FB92C466A2`
@@ -90,7 +89,7 @@ En el primer inicio, KairoOS aplica 8 pasos (9 si eliges un idioma distinto al d
 
 ## ¿Por qué es fiable?
 
-- **Es Windows oficial.** KairoOS parte de la **ISO oficial de Microsoft**: sin versiones "pirata", sin activadores y sin archivos de origen desconocido. Si lo prefieres, con KairoOS Creator la creas tú desde tu propia ISO.
+- **Es Windows oficial.** KairoOS parte de la **ISO oficial de Microsoft**: sin versiones "pirata", sin activadores y sin archivos de origen desconocido.
 - **La seguridad se queda activada.** Defender, firewall, UAC, Secure Boot, TPM y Windows Update siguen funcionando. Muchas ISO "gaming" los quitan para ganar unos MB; KairoOS no.
 - **Recibe actualizaciones.** Windows Update funciona normal, y tras una actualización grande KairoOS ofrece reaplicar sus ajustes.
 - **Tiene marcha atrás.** Antes de tocar nada crea un punto de restauración.
@@ -123,10 +122,7 @@ En el primer inicio, KairoOS aplica 8 pasos (9 si eliges un idioma distinto al d
 ## Requisitos
 
 - Un PC o portátil compatible con **Windows 11** (64 bits, UEFI, TPM 2.0 y Secure Boot recomendados).
-- **Para crear la ISO** (en cualquier Windows 10/11):
-  - La ISO oficial de Windows 11. Es gratis, desde la [página de Microsoft](https://www.microsoft.com/software-download/windows11).
-  - Unos **20 GB libres**.
-  - Internet, para la herramienta de Microsoft que crea la ISO. KairoOS Creator la instala sola si falta.
+- **9 GB libres** para descargar la ISO.
 - **Un USB de 16 GB** o más, y [Rufus](https://rufus.ie/) para grabarla.
 - **Una licencia de Windows 11.** La mayoría de equipos ya la traen de fábrica y se activa sola. KairoOS no incluye ni salta licencias.
 
@@ -136,7 +132,6 @@ En el primer inicio, KairoOS aplica 8 pasos (9 si eliges un idioma distinto al d
 
 1. Descarga **[KairoOS.iso desde MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk)** (8,5 GB).
    - Si MEGA pausa la descarga por su límite gratuito, espera a que se renueve o usa la app de MEGA, que la reanuda sola.
-   - Alternativa: crea tú la ISO con **[KairoOS Creator](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest)** y la ISO oficial de Windows 11.
 2. Graba `KairoOS.iso` en un USB con **Rufus**.
 3. Arranca el equipo desde el USB y sigue el instalador de KairoOS.
 
@@ -161,4 +156,4 @@ Los programas de terceros que usa KairoOS mantienen sus licencias: lo tienes en 
 - **No Microsoft account required** and **no Windows setup screens.**
 - Available in **English and Spanish.**
 
-Download the **[KairoOS ISO from MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk)**, or build it yourself from your official Windows 11 ISO with **[KairoOS Creator](https://github.com/pipeforero306-cyber/karioOS-gaming/releases/latest)**. Write it to a USB drive with Rufus and install. A valid Windows license is required (no activators included). KairoOS is not affiliated with Microsoft.
+Download the **[KairoOS ISO from MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk)**. Write it to a USB drive with Rufus and install. A valid Windows license is required (no activators included). KairoOS is not affiliated with Microsoft.

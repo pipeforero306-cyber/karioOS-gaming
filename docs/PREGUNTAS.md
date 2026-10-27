@@ -3,7 +3,7 @@
 [← Volver al inicio](../README.md)
 
 ### ¿Necesito licencia?
-Sí. La ISO de KairoOS contiene Windows 11 **sin licencia ni activadores**: para usarlo necesitas una licencia válida de Windows, igual que con cualquier instalación. Si prefieres partir de tu propia ISO oficial de Microsoft, puedes crear KairoOS con **KairoOS Creator**.
+Sí. La ISO de KairoOS contiene Windows 11 **sin licencia ni activadores**: para usarlo necesitas una licencia válida de Windows, igual que con cualquier instalación.
 
 ### ¿Tengo que pagar Windows?
 Si tu PC o portátil ya traía Windows 10 u 11, la licencia suele estar guardada en el equipo y **se activa sola** al conectarse a internet, siempre que elijas la misma edición (casi siempre Home). KairoOS no incluye activadores ni salta licencias.
@@ -27,9 +27,6 @@ Sí. Detecta si es portátil: enchufado usa el máximo rendimiento y con baterí
 
 ### ¿Necesito internet para instalar?
 No es obligatorio, pero sí recomendable: Steam, Epic Games, Discord, WinUtil, el logo y algunas librerías se descargan durante la instalación. Sin internet, KairoOS se instala igual y lo que falte se puede añadir después.
-
-### Windows SmartScreen dice que KairoOS Creator no es reconocido
-Es normal en programas nuevos sin firma digital de pago. Pulsa **Más información → Ejecutar de todas formas**.
 
 ### ¿En qué idiomas está?
 **Español e inglés.** Lo eliges en la primera pantalla del instalador, y KairoOS pone en ese idioma sus pantallas y también Windows.
