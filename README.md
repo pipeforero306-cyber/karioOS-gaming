@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk"><img alt="Descargar KairoOS" src="https://img.shields.io/badge/Descargar-KairoOS%201.0%20(ISO)-8b5cf6?style=for-the-badge"></a>
-  <img alt="Windows 11" src="https://img.shields.io/badge/Windows-11-22d3ee?style=for-the-badge">
+  <img alt="Próximamente 1.1" src="https://img.shields.io/badge/Pr%C3%B3ximamente-1.1-22d3ee?style=for-the-badge">
   <img alt="Idiomas" src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol%20%C2%B7%20English-ec4899?style=for-the-badge">
 </p>
 
@@ -28,9 +28,35 @@ Lo instalas desde un USB como cualquier Windows. En unos 20-30 minutos tienes un
 Sin pantallas de configuración de Windows, sin cuenta de Microsoft obligatoria y **sin quitar la seguridad**.
 
 > **Descarga:** [KairoOS 1.0 (ISO, 8,5 GB) en MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk).
-> En ambos casos, para usar Windows necesitas tu propia licencia: KairoOS no incluye activadores.
+> Para usar Windows necesitas tu propia licencia: KairoOS no incluye activadores.
 >
 > SHA-256 de `KairoOS.iso` 1.0: `3E6EC0A57F1AF3BFE2FC1C15E82310CBDD7DF5FD13E963536C4F19FB92C466A2`
+
+---
+
+## Próximamente: KairoOS 1.1
+
+La próxima versión convierte KairoOS en algo más que un Windows bien ajustado: **todo lo que tocas para jugar es de KairoOS**.
+
+- **Kairo Home:** tus juegos de Steam, Epic Games y los que añadas, con sus portadas, a pantalla completa y estilo consola. Se maneja con **mando**, teclado o ratón, y apenas gasta recursos: no lee el mando mientras juegas y solo se redibuja cuando algo cambia.
+- **Modo consola:** si quieres, el PC arranca directamente en Kairo Home.
+- **Bienvenida:** al terminar de instalar, en un minuto eliges tus apps, el color de KairoOS y tu forma de jugar.
+- **Tienda de KairoOS:** las apps que de verdad se usan, instaladas solas desde su fuente oficial y sin anuncios. Sustituye a Ninite.
+  - **Gaming:** Steam, Epic Games, EA app, Ubisoft Connect, Rockstar, GOG Galaxy, Amazon Games, Valorant, League of Legends, GeForce NOW, Parsec, CurseForge y Vortex.
+  - **Rendimiento, periféricos y directos:** MSI Afterburner, HWiNFO, CPU-Z, GPU-Z, Logitech G HUB, SteelSeries GG, Corsair iCUE, OBS Studio y Streamlabs.
+  - **Día a día:** Discord, WhatsApp, Telegram, Zoom, Teams, Chrome, Opera GX, Brave, Firefox, Spotify, VLC, 7-Zip, PowerToys, Bitwarden, LibreOffice, Notion y VS Code.
+- **Perfiles por juego:** gráfica dedicada (ideal en portátiles con dos gráficas) y prioridad alta. Los aplica el propio Windows, así que no queda nada funcionando en segundo plano.
+- **Actualizaciones de KairoOS** desde KairoOS Center, sin reinstalar y comprobando que la descarga es idéntica a la original (SHA-256).
+- **Pensado para cualquier equipo:** en PCs modestos empieza con menos efectos para que todo vaya fluido. En equipos potentes, todo activado.
+- **7 colores de KairoOS** y **sonidos propios**.
+
+| Kairo Home | La tienda en la Bienvenida |
+|---|---|
+| ![Kairo Home](docs/capturas/09-kairo-home.png) | ![Tienda](docs/capturas/10-tienda-bienvenida.png) |
+| **Hazlo tuyo** | **KairoOS Center: Apps y Juegos** |
+| ![Personaliza](docs/capturas/11-personaliza.png) | ![Apps](docs/capturas/12-center-apps.png) |
+
+*Capturas de la versión en pruebas; los juegos son de ejemplo.*
 
 ---
 
@@ -116,6 +142,8 @@ En el primer inicio, KairoOS aplica 8 pasos (9 si eliges un idioma distinto al d
 | Español e inglés | ✅ | ⚠️ | ✅ |
 | Panel de control propio | ❌ | ❌ | ✅ KairoOS Center |
 | Punto de restauración y registros | ❌ | ❌ | ✅ |
+| Pantalla de juegos a pantalla completa con mando | ❌ | ❌ | 🔜 Kairo Home (1.1) |
+| Tienda de apps sin anuncios | ❌ | ❌ | 🔜 1.1 |
 
 ---
 
@@ -155,5 +183,7 @@ Los programas de terceros que usa KairoOS mantienen sus licencias: lo tienes en 
 - **Security stays on:** Defender, firewall, Secure Boot, TPM and Windows Update.
 - **No Microsoft account required** and **no Windows setup screens.**
 - Available in **English and Spanish.**
+
+**Coming in 1.1:** Kairo Home (your games full screen, controller-ready, with an optional console mode), a welcome app, the KairoOS app store (gaming and everyday apps, no ads), per-game profiles, KairoOS updates from KairoOS Center, and lighter defaults for modest PCs.
 
 Download the **[KairoOS ISO from MEGA](https://mega.nz/file/wU8ThYAR#Z-4bU1jSiKvKsmQ3q6IeXDBDnu5qX36VfoAp4MXq8Sk)**. Write it to a USB drive with Rufus and install. A valid Windows license is required (no activators included). KairoOS is not affiliated with Microsoft.
